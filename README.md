@@ -1,4 +1,4 @@
-# 📘 Blog Post (in Bangla)
+# 📝 Blog Post (in Bangla)
 
 ## **1. TypeScript এ Interface এবং Type এর মধ্যে পার্থক্য**
 
